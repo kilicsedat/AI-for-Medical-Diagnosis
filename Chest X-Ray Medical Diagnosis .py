@@ -55,8 +55,7 @@
 # - `util` will provide the locally defined utility functions that have been provided for this assignment
 # 
 # We will also use several modules from the `keras` framework for building deep learning models.
-# 
-# Run the next cell to import all the necessary packages.
+
 
 # In[1]:
 
@@ -863,6 +862,3 @@ util.compute_gradcam(model, '00029855_001.png', IMAGE_DIR, df, labels, labels_to
 
 
 util.compute_gradcam(model, '00005410_000.png', IMAGE_DIR, df, labels, labels_to_show)
-
-
-# Congratulations, you've completed the first assignment of course one! You've learned how to preprocess data, check for data leakage, train a pre-trained model, and evaluate using the AUC. Great work!
