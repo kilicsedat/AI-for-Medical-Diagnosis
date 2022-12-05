@@ -20,7 +20,7 @@
 # 
 # - Data preparation
 #   - Visualizing data.
-#   - Preventing data leakage.
+#   - Preventing data leakage and wrong data transformation
 # - Model Development
 #   - Addressing class imbalance.
 #   - Leveraging pre-trained models using transfer learning.
