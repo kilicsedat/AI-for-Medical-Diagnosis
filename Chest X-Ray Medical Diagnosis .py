@@ -5,7 +5,7 @@
 
 # <img src="images/xray-header-image.png" style="padding-top: 50px;width: 87%;left: 0px;margin-left: 0px;margin-right: 0px;">
 # 
-# __Welcome to the first assignment of AI for Medical Diagnosis!__ 
+# 
 # 
 # In this assignment you will explore medical image diagnosis by building a state-of-the-art chest X-ray classifier using Keras. 
 # 
