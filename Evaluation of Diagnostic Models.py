@@ -9,7 +9,7 @@
 # 
 # **By the end of this assignment you will learn about:**
 # 
-# 1. Accuracy
+# 1. Accuracy of the model
 # 1. Prevalence
 # 1. Specificity & Sensitivity
 # 1. PPV and NPV
