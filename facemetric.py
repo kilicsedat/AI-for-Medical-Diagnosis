@@ -89,7 +89,7 @@ for face in faces:
     cv2.circle(image, (point_31), 3, (255, 0, 0), -1)  # Draws a red dot
 
     # Calculate the direction vector of the line
-    direction = np.array([point_31[0] - point_28[0], point_31[1] - point_28[1]])
+    direction = np.array([point_32[0] - point_28[0], point_31[1] - point_28[1]])
 
     # Extend the line to the top and bottom of the face
     top_point = np.array(point_28) - direction * 1.5   # Arbitrary large number
